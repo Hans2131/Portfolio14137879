@@ -6,9 +6,23 @@ Vierdejaars student Informatica Zoetermeer. Vooral ervaring met het gebruik van 
 
 ### Leeswijzer
 In dit portfoliobeschrijf ik mijn werkzaamheden tijdens betreffende Data Science Minor in drie categorieën
-- Werkzaamheden tijdens project in fases,alle werkzaamheden en producten die ik opgeleverd voor het Pepper project per deelfase;
-- Persoonlijke ontwikkeling, hier bescrhijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb;
-- Overig, niet belangrijke maar wel noemenswaardige bijdragen.
+- Werkzaamheden tijdens project in fases
+- Persoonlijke ontwikkeling, 
+- Overig
 
-#### [Werkzaamheden tijdens project in fases](werkzaamheden.md)
+#### [Werkzaamheden tijdens project in fases (klik hier)](werkzaamheden.md)
+Hier beschrijf ik alle werkzaamheden en producten die ik gedaan heb of heb opgeleverd voor het Pepper project. Ik heb dit onderverdeeld in de volgende hoofdstukken:
+- 
 
+#### [Persoonlijke ontwikkeling (klik hier)](ontwikkeling.md)
+Hier beschrijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb, waaronder:
+- SCRUM
+- Datacamp
+- Coursera
+- Calling out bullshit
+- Python oefeningen
+
+#### [Overig (klik hier)](overig.md)
+Niet belangrijke maar wel noemenswaardige bijdragen:
+- Helpen SCRUM workshop
+- Helpen medestudenten met Datacamp
