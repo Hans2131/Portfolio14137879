@@ -10,5 +10,5 @@ In dit portfoliobeschrijf ik mijn werkzaamheden tijdens betreffende Data Science
 - Persoonlijke ontwikkeling, hier bescrhijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb;
 - Overig, niet belangrijke maar wel noemenswaardige bijdragen.
 
-#### [Werkzaamheden tijdens project in fases](werkzaamheden)
+#### [Werkzaamheden tijdens project in fases](werkzaamheden.md)
 
