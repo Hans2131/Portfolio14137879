@@ -10,6 +10,8 @@ In dit portfoliobeschrijf ik mijn werkzaamheden tijdens betreffende Data Science
 - Persoonlijke ontwikkeling 
 - Overig
 
+Elke categorie bevat een link naar een pagina die de complete beschrijving bevat, dit heb ik gedaan om de informatie per pagina te beperken.
+
 #### [Werkzaamheden tijdens project in fases (klik hier)](werkzaamheden.md)
 Hier beschrijf ik alle werkzaamheden en producten die ik gedaan heb of heb opgeleverd voor het Pepper project. Ik heb dit onderverdeeld in de volgende hoofdstukken:
 - Opstart project
