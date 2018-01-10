@@ -4,11 +4,11 @@
 [SCRUM in eigen woorden (pdf)](producten/ontwikkeling/SCRUM_opdracht.pdf)
 
 ### DATACAMP Opdrachten
-![Screenshot Datacamp](/producten/ontwikkeling/capture_datacamp.PNG "Screenshot Datacamp Opdrachten")
+![Screenshot Datacamp](Portfolio14137879/producten/ontwikkeling/capture_datacamp.PNG "Screenshot Datacamp Opdrachten")
 
 ### Coursera Opdrachten
 Van Coursera heb ik week 1 tot halverwege week 3 doorlopen.
-![Screenshot Coursera](/producten/ontwikkeling/capture_coursera.PNG "Screenshot Coursera Opdrachten")
+![Screenshot Coursera](Portfolio14137879/producten/ontwikkeling/capture_coursera.PNG "Screenshot Coursera Opdrachten")
 
 ### Python ExploratoryDataAnalysis Opdrachten
 [Map met ExploratoryDataAnalysis Notebooks](/producten/ontwikkeling/ExploratoryDataAnalysis)
