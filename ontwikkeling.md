@@ -11,7 +11,7 @@ Van Coursera heb ik week 1 tot halverwege week 3 doorlopen.
 ![Screenshot Coursera](producten/ontwikkeling/capture_coursera.PNG "Screenshot Coursera Opdrachten")
 
 ### Python ExploratoryDataAnalysis Opdrachten
-[Map met ExploratoryDataAnalysis Notebooks](producten/ontwikkeling/ExploratoryDataAnalysis)
+[Map met ExploratoryDataAnalysis Notebooks](https://github.com/Hans2131/Portfolio14137879/tree/master/producten/ontwikkeling/ExploratoryDataAnalysis)
 
 ### Python tutorial_spark Opdrachten
 [Map met tutorial_spark Notebooks](producten/ontwikkeling/tutorial_spark)
