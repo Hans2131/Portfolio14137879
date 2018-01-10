@@ -1,7 +1,7 @@
 ## Ontwikkeling
 
 ### SCRUM
-[SCRUM in eigen woorden (webpage)](producten/ontwikkeling/SCRUM in eigen woorden - Hans van Dijk - 14137879.pdf)
+[SCRUM in eigen woorden (webpage)](producten/ontwikkeling/SCRUM_opdracht.pdf)
 
 ### DATACAMP Opdrachten
 ![Screenshot Datacamp](/producten/ontwikkeling/capture_datacamp.PNG "Screenshot Datacamp Opdrachten")
@@ -17,4 +17,4 @@ Van Coursera heb ik week 1 tot halverwege week 3 doorlopen.
 [Map met tutorial_spark Notebooks](/producten/ontwikkeling/tutorial_spark)
 
 ### Calling Bullshit
-[Opdracht bullshit](/producten/ontwikkeling/Opdracht bullshit Hans van Dijk 14137879.pdf)
+[Opdracht bullshit](/producten/ontwikkeling/Opdracht_bullshit.pdf)
