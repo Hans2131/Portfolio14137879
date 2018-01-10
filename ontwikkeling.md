@@ -14,7 +14,7 @@ Van Coursera heb ik week 1 tot halverwege week 3 doorlopen.
 [Map met ExploratoryDataAnalysis Notebooks](https://github.com/Hans2131/Portfolio14137879/tree/master/producten/ontwikkeling/ExploratoryDataAnalysis)
 
 ### Python tutorial_spark Opdrachten
-[Map met tutorial_spark Notebooks](producten/ontwikkeling/tutorial_spark)
+[Map met tutorial_spark Notebooks](https://github.com/Hans2131/Portfolio14137879/tree/master/producten/ontwikkeling/tutorial_spark)
 
 ### Calling Bullshit
 [Opdracht bullshit (pdf)](producten/ontwikkeling/Opdracht_bullshit.pdf)
