@@ -17,4 +17,7 @@ Tijdens het werken met de ZR300 kwamen we er als projectgroep achter dat de ZR30
 Dit is het product waar ik tijdens het project verantwoordelijk voor ben geweest, en waar ik de meeste tijd in heb gestoken. Onderstaande link verwijst naar een pagina waar ik per deel functionaliteit kort beschrijf wat ik aan de applicatie heb toegevoegd. De applicatie is gebouwd met C#, de andere link verwijst naar de github waar alle source code op staat. Het project op deze github kan eventueel geopend worden met Visual Studio 2017.
 
 [Beschrijving toegevoegde functionaliteit Kinect applicatie](producten/werkzaamheden/kinecting_pepper.md)
+
 [Kinect applicatie Github Source](https://github.com/Hans2131/KinectingPepper)
+
+### Opnemen Kinect Data
