@@ -1,5 +1,6 @@
 ## Beschrijving toegevoegde functionaliteit Kinect applicatie
 
+De applicatie is gebouwd met C#, deze link verwijst naar de github repo waar alle source code staat. Het project kan worden geopend worden met Visual Studio 2017.
 Link sourcecode: [Kinect applicatie Github Source](https://github.com/Hans2131/KinectingPepper)
 
 ### Naamgeving
