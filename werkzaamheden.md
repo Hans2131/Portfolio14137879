@@ -1,7 +1,14 @@
 ## Werkzaamheden voor Pepper project
 
+### Opstarten van project
+Tijdens het opstarten van het project hebben we eerst vooronderzoek gedaan, in deze fase hebben we zoveel mogelijk vooronderzoek gedaan en de gevonden informatie in een document gezet. Ik daarbij vooral bijgedragen aan onderzoek naar technische mogelijkheden.
+- [Link document met informatie (pdf)]((producten/werkzaamheden/Aanpak_vooronderzoek.pdf){:target="_blank"}
+
+Daarnaast hebben we een plan van aanpak opgesteld, hier heb ik ook aan meegeholpen.
+- [Link naar plan van aanpak (pdf)]((producten/werkzaamheden/Plan_van_aanpak.pdf){:target="_blank"}
+
 ### Werken met Intel ZR300
-De eerste twee weken van het prject heb ik gewerkt met de RealSense ZR300 dieptecamera. Omdat we uiteindelijke tot de conclusie kwamen dat we de camera niet konden gebruiken zijn hier geen producten uit voorgekomen. Wat heb ik tijdens deze weken gedaan:
+De eerste twee weken van het project heb ik gewerkt met de RealSense ZR300 dieptecamera. Omdat we uiteindelijke tot de conclusie kwamen dat we de camera niet konden gebruiken zijn hier geen producten uit voorgekomen. Wat heb ik tijdens deze weken gedaan:
 - ZR300 op Window werkend gekregen, we dachten eerst dat we  alleen op Linux konden werken met de ZR300
 - Zoveel mogelijk informatie, documentatie en code over de ZR300 verzamelen
 - De OpenCV librarie werkend proberen te krijgen met de ZR300, hierbij geen succes gehad
@@ -13,7 +20,7 @@ Tijdens het werken met de ZR300 kwamen we er als projectgroep achter dat de ZR30
 
 [Kinect vs RealSense (pdf)](producten/werkzaamheden/Kinect_vs_RealSense.pdf){:target="_blank"}
 
-### Applicatie voor Kinect
+### Applicatie voor Kinect (EDIT THIS WHEN ADDING DOCUMENTATION) (ADD SCREENSHOTS OF APPLICATION)
 Dit is het product waar ik tijdens het project verantwoordelijk voor ben geweest, en waar ik de meeste tijd in heb gestoken. Onderstaande link verwijst naar een pagina waar ik per deel functionaliteit kort beschrijf wat ik aan de applicatie heb toegevoegd. De applicatie is gebouwd met C#, de andere link verwijst naar de github waar alle source code op staat. Het project op deze github kan eventueel geopend worden met Visual Studio 2017.
 
 [Beschrijving toegevoegde functionaliteit Kinect applicatie](producten/werkzaamheden/kinecting_pepper.md){:target="_blank"}
@@ -38,4 +45,27 @@ De data van een opname bevatten veel overbodige frames, dit komt doordat op het 
 [Link naar notebook](https://github.com/Hans2131/Portfolio14137879/blob/master/producten/werkzaamheden/Cleaning%2Bdata%2Bfunctions%2Bv2.ipynb){:target="_blank"}
 
 #### Pepper treintje
+De functionaliteit van het Pepper Treintje is vooral bedacht door teamgenoten omdat ik vooral bezig was met de applicatie KinectingPepper. Later tijdens het project was mijn hulp echter nodig omdat we het treintje niet op tijd af zouden krijgen. Het teamgenoot die verantwoordelijk was voor toen huidige codebase had alles gemaakt in een normale python environment. Dit was echter niet handig omdat ik daardoor niet makkelijk mee kon helpen, ik heb daarom eerst alles overgezet naar Notebooks en alles toegevoegd aan een Github repository. 
 
+[Link naar Github repository met code treintje]
+
+Mijn bijdrages zijn voor geweest:
+- Splitsen van grote methode met functionaliteit in kleine meer behapbare methodes
+- Programmeren data flow door treintje, elke stuk functionaliteit levert data voor een volgend stukje functionaliteit
+- Oplossen van wat bugs
+ 
+ Op het moment van schrijven is de code nog niet efficient en hoewel het treintje werkt werken de stukken functionaliteit onderling nog niet echt goed. (EDIT THIS AFTER NEW PRORESS ON TRAIN)
+
+Uiteindelijk heb ik aan de volgende twee files gewerkt:
+- [Link Notebook 'Code Train'](https://github.com/KinectingPepper/spark_train/blob/master/Code%20Train.ipynb){:target="_blank"}
+- [Link Notebook 'Run Train'](https://github.com/KinectingPepper/spark_train/blob/master/Run%20Train.ipynb){:target="_blank"}
+
+#### Gesprekken opdrachtgever
+Ik ben op verschillende momenten meegeweest voor een gesprek met een opdrachtgever of andere stakeholder
+- Drie keer op bezoek geweest bij manueel therapeut UMC Leiden
+- Eén keer op bezoek geweest bij sport fysio Zuiderpark
+
+#### Presentaties 
+- Presentatie 1 
+- Presentatie 2
+- Presentatie 3
