@@ -25,8 +25,8 @@ Voor de applicatie heb ik de volgende onderdelen ontwikkeld:
 - Toevoegen van simpele logging/feedback voor gebruiker
 - Afspelen van opgeslagen skeleton data
 - Effectief opslaan van MP4 files
-- Afspelen van opgeslagen MP4 files achter skeleton data
-- Oplossen verschillende bugs
+- Verbeteren opslaan CSV converter
+- Overige werkzaamheden zoals bugs oplossen
 
 #### Weergeven van verschillende camera beelden
 Dit was de allereerste versie van de applicatie die met een dropdown menu een camera van de Kinect kon selecteren en het beeld van die camera kon tonen op het scherm. 
@@ -38,4 +38,28 @@ Met de Kinect SDK heb ik skeleton data uitgelezen die realtime wordt berekend do
 Na het uitlezen en weergeven van Kinect Data, was de volgende stap het opslaan van deze data. Hiervoor heb ik 'object serialization' naar XML gebruikt. De reden dat ik dit gedaan heb is ten eerste dat dit eenvoudig is te implementeren in C#, daarnaast wordt de data op die manier op de puurste manier opgeslagen waardoor de kans klein is dat data verloren gaat of vervormt raakt. Een nadeel van XML is dat dit formaat niet geschikt is voor bijvoorbeeld analyse in python. Om die reden heeft een klasgenoot een csv converter gemaakt die de data omzet naar een tabel formaat.
 
 #### Toevoegen van simpele logging/feedback voor gebruiker
+Tijdens het testen van de opname functionaliteit kwam ik erachter dat ik weinig feedback kreeg over de huidige status van de applicatie. Op het moment dat ik het opnemen stopte, wist ik bijvoorbeeld niet of de juiste files werden opgeslagen. Om die reden heb ik een simpel logsysteem toegevoegd die op het huidige scherm een log weergeeft van de belangrijkste acties gedaan door de applicatie.
+
+#### Afspelen van opgeslagen skeleton/video data
+Een van de functionaliteiten die we als project groep nodig hadden was het bekijken van de opgeslagen data. Eén van mijn projectgenoten heeft hier de UI (een tweede scherm met knoppen zonder functionaliteit) voor gemaakt. In eerste instantie heb ik alleen een systeem gemaakt die de verschillende skeleton frames gebaseerd op tijd achter elkaar afspeelt. Laat heb ik hier extra functionaliteit aan toegevoegd zoals het afspelen van mp4 video beelden achter het skeleton, het handmatig verslepen van een slider om door de frames te kunnen bewegen en het bekijken van elke frame apart door er 1 voor 1 doorheen te stappen.
+
+#### Effectief opslaan van MP4 files
+Een van mijn projectgenoten had functionaliteit geschreven in C++ die de beelden op kon slaan als mp4 formaat op de harde schijf. Omdat hij deze functionaliteit echter zelf geschreven had was dit totaal niet efficiënt. Er zaten fouten in het formaat en ook werd het opnemen van data sterk vertraagd. Ik ben dus op zoek gegaan naar bestaande functionaliteit voor het opslaan van bitmaps als een video formaat. Uiteindelijk heb ik hier Accord.NET voor gevonden, dit is een Machine Learning Framework die onder andere functionaliteit bevat voor het opslaan van videobeelden. 
+
+Een van de problemen die ik echter ondervond, was dat het opslaan van beelden op de harde schijf een relatief traag proces is die veel invloed had op het aantal beelden die de applicatie per seconde kon verwerken. Om dit op te lossen heb ik multi threading gebruikt, dit houdt in dat er binnen de applicatie parallel een extra proces draait die zich alleen bezig houdt met het opslaan van videoframes. De werking gaat in het kort als volgende:
+- Bij het starten van een opname wordt een nieuw proces gecreeërd met een bitmap queue en een loop die bitmaps uit de queue haalt en opslaat op de harde schijf
+- Er komt een Kinect frame binnen die alle data bevat
+- Kinect video frame data wordt omgezet naar een bitmap
+- Bitmap wordt naar het andere proces gestuurd en daar in een queue gezet
+- Nieuwe frames komen binnen terwijl het andere proces de oude frames parallel blijft opslaan
+
+#### Verbeteren CSV converter
+Omdat ik binnen de groep de meeste ervaring had in C# heb ik een klein deel van de functionaliteit voor het opslaan van CSV bestanden herschreven. Dit ging vooral over het openen van een te kiezen folder, en alle xml bestanden in deze folder converteren. Daardoor was de converter net iets beter bruikbaar.
+
+#### Overige werkzaamheden zoals bugs oplossen
+Naast het toevoegen van bovenstaande belangrijkste functionaliteit heb ik de volgende dingen gedaan
+- Opzetten van vergaderingen tussen ontwikkelaars om wat beslissingen te nemen
+- Oplossen van bugs
+- Reviewen van wat code van projectgenoten
+- Kleine, niet noemenswaardige functionaliteiten toegevoegd
 
