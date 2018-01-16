@@ -10,10 +10,10 @@
 Van Coursera heb ik week 1 tot halverwege week 3 doorlopen.
 ![Screenshot Coursera](producten/ontwikkeling/capture_coursera.PNG "Screenshot Coursera Opdrachten")
 
-### Python ExploratoryDataAnalysis Opdrachten
+### Python ExploratoryDataAnalysis opdrachten
 [Map met ExploratoryDataAnalysis Notebooks](https://github.com/Hans2131/Portfolio14137879/tree/master/producten/ontwikkeling/ExploratoryDataAnalysis){:target="_blank"}
 
-### Python tutorial_spark Opdrachten
+### Python tutorial_spark opdrachten
 [Map met tutorial_spark Notebooks](https://github.com/Hans2131/Portfolio14137879/tree/master/producten/ontwikkeling/tutorial_spark){:target="_blank"}
 
 ### Calling Bullshit
