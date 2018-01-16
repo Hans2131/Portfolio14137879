@@ -34,3 +34,4 @@ Hier beschrijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb, waaronde
 Niet belangrijke maar wel noemenswaardige bijdragen:
 - Helpen SCRUM workshop
 - Helpen medestudenten met Datacamp
+- Hackaton
