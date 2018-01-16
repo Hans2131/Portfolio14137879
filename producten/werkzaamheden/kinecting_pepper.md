@@ -34,6 +34,7 @@ Bij de beschrijving van de functionaliteit heb ik de link naar elke commit gezet
 
 #### Weergeven van verschillende camera beelden 
 [Link naar commit](https://github.com/Hans2131/KinectingPepper/commit/f3f9319b950546b7e1e77b053c85ea98bf3b0ee0){:target="_blank"}
+
 Dit was de allereerste versie van de applicatie die met een dropdown menu een camera van de Kinect kon selecteren en het beeld van die camera kon tonen op het scherm. 
 
 #### Weergeven van skelet bovenop de beelden
