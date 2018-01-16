@@ -66,6 +66,7 @@ Ik ben op verschillende momenten meegeweest voor een gesprek met een opdrachtgev
 - Eén keer op bezoek geweest bij sport fysio Zuiderpark
 
 #### Presentaties 
-- Presentatie 1 
-- Presentatie 2
-- Presentatie 3
+- [Link presentatie 1 (pdf)](producten/werkzaamheden/presentaties/Extern_P2.pdf){:target="_blank"}
+- [Link presentatie 2 (pdf)](producten/werkzaamheden/presentaties/Externe_presentatie_6_Okt.pdf){:target="_blank"}
+- [Link presentatie 3 (pdf)](producten/werkzaamheden/presentaties/Extern_22_December_DEMO.pdf){:target="_blank"}
+- [Link presentatie 4 (pdf)](producten/werkzaamheden/presentaties/Intern_P10.pdf){:target="_blank"}
