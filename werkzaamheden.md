@@ -7,7 +7,7 @@ Tijdens het opstarten van het project hebben we eerst vooronderzoek gedaan, in d
 Daarnaast hebben we een plan van aanpak opgesteld, hier heb ik ook aan meegeholpen.
 - [Link naar plan van aanpak (pdf)](producten/werkzaamheden/Plan_van_aanpak.pdf){:target="_blank"}
 
-### Werken met Intel ZR300
+### Werken met RealSense ZR300
 De eerste twee weken van het project heb ik gewerkt met de RealSense ZR300 dieptecamera. Omdat we uiteindelijke tot de conclusie kwamen dat we de camera niet konden gebruiken zijn hier geen producten uit voorgekomen. Wat heb ik tijdens deze weken gedaan:
 - ZR300 op Window werkend gekregen, we dachten eerst dat we  alleen op Linux konden werken met de ZR300
 - Zoveel mogelijk informatie, documentatie en code over de ZR300 verzamelen
@@ -21,7 +21,7 @@ Tijdens het werken met de ZR300 kwamen we er als projectgroep achter dat de ZR30
 [Kinect vs RealSense (pdf)](producten/werkzaamheden/Kinect_vs_RealSense.pdf){:target="_blank"}
 
 ### Applicatie voor Kinect (EDIT THIS WHEN ADDING DOCUMENTATION) (ADD SCREENSHOTS OF APPLICATION)
-Dit is het product waar ik tijdens het project verantwoordelijk voor ben geweest, en waar ik de meeste tijd in heb gestoken. Onderstaande link verwijst naar een pagina waar ik per deel functionaliteit kort beschrijf wat ik aan de applicatie heb toegevoegd. De applicatie is gebouwd met C#, de andere link verwijst naar de github waar alle source code op staat. Het project op deze github kan eventueel geopend worden met Visual Studio 2017.
+Dit is het product waar ik tijdens het project verantwoordelijk voor ben geweest, en waar ik de meeste tijd in heb gestoken. Onderstaande link verwijst naar een pagina waar ik per deel functionaliteit kort beschrijf wat ik aan de applicatie heb toegevoegd.
 
 [Beschrijving toegevoegde functionaliteit Kinect applicatie](producten/werkzaamheden/kinecting_pepper.md){:target="_blank"}
 
