@@ -23,7 +23,7 @@ Tijdens het werken met de ZR300 kwamen we er als projectgroep achter dat de ZR30
 ### Applicatie voor Kinect (EDIT THIS WHEN ADDING DOCUMENTATION) (ADD SCREENSHOTS OF APPLICATION)
 Dit is het product waar ik tijdens het project verantwoordelijk voor ben geweest, en waar ik de meeste tijd in heb gestoken. Onderstaande link verwijst naar een pagina waar ik per deel functionaliteit kort beschrijf wat ik aan de applicatie heb toegevoegd.
 
-[Beschrijving toegevoegde functionaliteit Kinect applicatie](producten/werkzaamheden/kinecting_pepper.md){:target="_blank"}
+[Belangrijk! Beschrijving toegevoegde functionaliteit Kinect applicatie](producten/werkzaamheden/kinecting_pepper.md){:target="_blank"}
 
 ### Opnemen Kinect Data
 Omdat ik het grootste deel van de opname applicatie gemaakt heb wist ik hier tijdens het project ook het meeste van af. Dit maakte mij tijdens de opnamesessies de aangewezen persoon om mensen op te nemen. Overigens was de applicatie wel zo gemaakt dat ook andere zonder al te veel kennis gebruik konden maken van de applicatie. Ik was verantwoordelijk voor opnames (bediening van applicatie) tijdens de volgende opnamesessies, bij elkaar was ik betrokken bij ongeveer 70% van de opnames:
