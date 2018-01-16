@@ -18,6 +18,4 @@ Dit is het product waar ik tijdens het project verantwoordelijk voor ben geweest
 
 [Beschrijving toegevoegde functionaliteit Kinect applicatie](producten/werkzaamheden/kinecting_pepper.md)
 
-[Kinect applicatie Github Source](https://github.com/Hans2131/KinectingPepper)
-
 ### Opnemen Kinect Data
