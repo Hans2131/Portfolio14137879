@@ -29,7 +29,7 @@ Voor de applicatie heb ik de volgende onderdelen ontwikkeld:
 - Overige werkzaamheden zoals bugs oplossen
 
 #### Weergeven van verschillende camera beelden 
-Dit was de allereerste versie van de applicatie die met een dropdown menu een camera van de Kinect kon selecteren en het beeld van die camera kon tonen op het scherm. [Link naar commit](https://github.com/Hans2131/KinectingPepper/commit/f3f9319b950546b7e1e77b053c85ea98bf3b0ee0){:target="_blank"}
+Dit was de allereerste versie van de applicatie die met een dropdown menu een camera van de Kinect kon selecteren en het beeld van die camera kon tonen op het scherm. [Link naar commit](https://github.com/Hans2131/KinectingPepper/commit/f3f9319b950546b7e1e77b053c85ea98bf3b0ee0) {:target="_blank"}
 
 #### Weergeven van skelet bovenop de beelden
 Met de Kinect SDK heb ik skeleton data uitgelezen die realtime wordt berekend door de Kinect. Deze data zijn gewrichten inclusief een XYZ locatie in 'real world space'. Het mappen van deze coördinaten naar 'screen space' heb ik gedaan met functionaliteit van de Kinect SDK. Uiteindelijk worden de gewrichten inclusief verbindingen realtime getekend op de diepte of kleuren beelden die worden opgenomen door de Kinect.
