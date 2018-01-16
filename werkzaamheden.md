@@ -29,6 +29,13 @@ Eén van de problemen waar ik tijdens het project tegen aan liep was het feit da
 ![Screenshot data georganiseerd](producten/werkzaamheden/Capture_data_organised.png)
 
 Daarnaast heb ik een handleiding gemaakt voor het toevoegen van nieuwe data op de server.
+
 [Link handleiding data (pdf)](producten/werkzaamheden/Handleiding_uploaden_data.pdf){:target="_blank"}
 
+#### Cleaning van data met python
+De data van een opname bevatten veel overbodige frames, dit komt doordat op het moment dat de opname met de applicatie gestart wordt de oefening niet direct begint. Mijn code verwijdert deze overbodige frames op basis van data uit een excel file. Dit betekent dat projectgenoten alleen de start en eind frames van een oefening in een excellijst hoefden te zetten en mijn script hoefden te runnen. Later is mijn code door andere klasgenoten licht aangepast zodat het met meerdere excel sheets overweg kon.
+
+[Link naar notebook](https://github.com/Hans2131/Portfolio14137879/blob/master/producten/werkzaamheden/Cleaning%2Bdata%2Bfunctions%2Bv2.ipynb){:target="_blank"}
+
+#### Pepper treintje
 
