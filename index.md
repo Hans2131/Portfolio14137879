@@ -1,4 +1,4 @@
-## [Data Science Portfolio Hans van Dijk](https://hans2131.github.io/Portfolio14137879)
+## Data Science Portfolio Hans van Dijk
 Studentnummer: 14137879
 
 ### Achtergrond student
