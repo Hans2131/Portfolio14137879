@@ -10,9 +10,9 @@ In dit portfoliobeschrijf ik mijn werkzaamheden tijdens betreffende Data Science
 - Persoonlijke ontwikkeling 
 - Overig
 
-Elke categorie bevat een link naar een pagina die de complete beschrijving bevat, dit heb ik gedaan om de informatie per pagina te beperken.
+Elke categorie bevat een link naar een pagina die de complete beschrijving bevat, dit heb ik gedaan om de informatie per pagina te beperken. Elke link opent als het goed is op een nieuwe tabblad.
 
-#### [Werkzaamheden voor het project (klik hier)](werkzaamheden.md)
+#### [Werkzaamheden voor het project (klik hier)](werkzaamheden.md){:target="_blank"}
 Hier beschrijf ik alle werkzaamheden en producten die ik gedaan heb of heb opgeleverd voor het Pepper project. Ik heb dit onderverdeeld in de volgende hoofdstukken:
 - Opstarten project
 - Wertken met RealSense ZR300
@@ -25,7 +25,7 @@ Hier beschrijf ik alle werkzaamheden en producten die ik gedaan heb of heb opgel
 - Gesprekken opdrachtgever
 - Presentaties
 
-#### [Persoonlijke ontwikkeling (klik hier)](ontwikkeling.md)
+#### [Persoonlijke ontwikkeling (klik hier)](ontwikkeling.md){:target="_blank"}
 Hier beschrijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb, waaronder:
 - SCRUM
 - Datacamp
@@ -35,7 +35,7 @@ Hier beschrijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb, waaronde
 - Calling out bullshit
 
 
-#### [Overig (klik hier)](overig.md)
+#### [Overig (klik hier)](overig.md){:target="_blank"}
 Niet belangrijke maar wel noemenswaardige bijdragen:
 - Helpen SCRUM workshop
 - Helpen medestudenten met Datacamp
