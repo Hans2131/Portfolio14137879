@@ -14,21 +14,26 @@ Elke categorie bevat een link naar een pagina die de complete beschrijving bevat
 
 #### [Werkzaamheden voor het project (klik hier)](werkzaamheden.md)
 Hier beschrijf ik alle werkzaamheden en producten die ik gedaan heb of heb opgeleverd voor het Pepper project. Ik heb dit onderverdeeld in de volgende hoofdstukken:
-- Wertken met Intel RealSense ZR300
+- Opstarten project
+- Wertken met RealSense ZR300
 - Keuze voor Kinect
-- Applicatie bouwen voor de Kinect
-- Opnemen mensen met Kinect
-- Schoonmaken data met python
-- Organiseren archiveren data op server
-- Python treintje
+- Applicatie voor Kinect
+- Opnemen Kinect Data
+- Organiseren data op server
+- Cleaning van data met python
+- Pepper treintje
+- Gesprekken opdrachtgever
+- Presentaties
 
 #### [Persoonlijke ontwikkeling (klik hier)](ontwikkeling.md)
 Hier beschrijf ik kort wat ik aan persoonlijke ontwikkeling gedaan heb, waaronder:
 - SCRUM
 - Datacamp
 - Coursera
+- Python ExploratoryDataAnalysis opdrachten
+- Python tutorial_spark opdrachten
 - Calling out bullshit
-- Python oefeningen
+
 
 #### [Overig (klik hier)](overig.md)
 Niet belangrijke maar wel noemenswaardige bijdragen:
