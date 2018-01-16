@@ -2,10 +2,10 @@
 
 ### Opstarten van project
 Tijdens het opstarten van het project hebben we eerst vooronderzoek gedaan, in deze fase hebben we zoveel mogelijk vooronderzoek gedaan en de gevonden informatie in een document gezet. Ik daarbij vooral bijgedragen aan onderzoek naar technische mogelijkheden.
-- [Link document met informatie (pdf)]((producten/werkzaamheden/Aanpak_vooronderzoek.pdf){:target="_blank"}
+- [Link document met informatie (pdf)](producten/werkzaamheden/Aanpak_vooronderzoek.pdf){:target="_blank"}
 
 Daarnaast hebben we een plan van aanpak opgesteld, hier heb ik ook aan meegeholpen.
-- [Link naar plan van aanpak (pdf)]((producten/werkzaamheden/Plan_van_aanpak.pdf){:target="_blank"}
+- [Link naar plan van aanpak (pdf)](producten/werkzaamheden/Plan_van_aanpak.pdf){:target="_blank"}
 
 ### Werken met Intel ZR300
 De eerste twee weken van het project heb ik gewerkt met de RealSense ZR300 dieptecamera. Omdat we uiteindelijke tot de conclusie kwamen dat we de camera niet konden gebruiken zijn hier geen producten uit voorgekomen. Wat heb ik tijdens deze weken gedaan:
