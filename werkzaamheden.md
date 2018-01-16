@@ -47,7 +47,7 @@ De data van een opname bevatten veel overbodige frames, dit komt doordat op het 
 #### Pepper treintje
 De functionaliteit van het Pepper Treintje is vooral bedacht door teamgenoten omdat ik vooral bezig was met de applicatie KinectingPepper. Later tijdens het project was mijn hulp echter nodig omdat we het treintje niet op tijd af zouden krijgen. Het teamgenoot die verantwoordelijk was voor toen huidige codebase had alles gemaakt in een normale python environment. Dit was echter niet handig omdat ik daardoor niet makkelijk mee kon helpen, ik heb daarom eerst alles overgezet naar Notebooks en alles toegevoegd aan een Github repository. 
 
-[Link naar Github repository met code treintje]
+[Link naar Github repository met code treintje](https://github.com/KinectingPepper/spark_train){:target="_blank"}
 
 Mijn bijdrages zijn voor geweest:
 - Splitsen van grote methode met functionaliteit in kleine meer behapbare methodes
