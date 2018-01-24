@@ -2,7 +2,7 @@
 
 De applicatie is gebouwd met C#, deze link verwijst naar de github repo waar alle source code staat. Het project kan worden geopend worden met Visual Studio 2017.
 
-Link sourcecode: [Kinect applicatie Github Source](https://github.com/Hans2131/KinectingPepper)
+Link sourcecode: [Kinect applicatie Github Source](https://github.com/Hans2131/KinectingPepper){:target="_blank"}
 
 ### Naamgeving
 In eerste instantie zouden we met een camera werken die geschikt was de Pepper robot. Omdat we in plaats daarvan de Kinect gingen gebruiken tijdens ons onderzoek, heb ik de bijbehorende applicatie de toepasselijke naam KinectingPepper gegeven. De applicatie spreek ik in onderstaande beschrijving dan ook aan als 'de applicatie' of 'KinectingPepper'.
@@ -16,8 +16,8 @@ Het ontwikkelproces hebben we op de volgende manier uitgevoerd:
 - Na toevoegen nieuwe functionaliteit de code laten reviewen door teamgenoot
 - Na review en eventuele aanpassingen code committen op de master
 
-### Documentatie
-Door tijdsgebrek hebben we besloten niet teveel aan documentatie te doen. Wel heb ik geprobeerd de code zoveel mogelijk 'self-explaining' te maken door middel van goede naamgevingen. Als ik aan het eind van het project nog tijd over heb voeg ik documentatie in de vorm van comments en een class diagram alsnog toe.
+### Class diagram
+![Class diagram](producten/werkzaamheden/Class_Diagram_KinectingPepper.jpg "Class Doagram, KinectingPepper")
 
 ### Welke onderdelen heb ik ontwikkeld?
 Voor de applicatie heb ik de volgende onderdelen ontwikkeld:
