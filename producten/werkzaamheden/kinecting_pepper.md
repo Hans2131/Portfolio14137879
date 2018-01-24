@@ -68,3 +68,8 @@ Naast het toevoegen van bovenstaande belangrijkste functionaliteit heb ik de vol
 - Reviewen van wat code van projectgenoten
 - Kleine, niet noemenswaardige functionaliteiten toegevoegd
 
+### Screenshot functionaliteit opnemen data
+![Record_Page](Capture_recordpage.PNG "Opnemen data")
+
+### Screenshot functionaliteit afspelen data
+![Rewind_Page](Capture_rewindpage.PNG "Afspelen data")
