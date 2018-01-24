@@ -17,7 +17,7 @@ Het ontwikkelproces hebben we op de volgende manier uitgevoerd:
 - Na review en eventuele aanpassingen code committen op de master
 
 ### Class diagram
-![Class diagram](producten/werkzaamheden/Class_Diagram_KinectingPepper.jpg "Class Doagram, KinectingPepper")
+![Class diagram](/Class_Diagram_KinectingPepper.jpg "Class Diagram KinectingPepper")
 
 ### Welke onderdelen heb ik ontwikkeld?
 Voor de applicatie heb ik de volgende onderdelen ontwikkeld:
