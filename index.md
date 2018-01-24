@@ -17,12 +17,14 @@ Hier beschrijf ik alle werkzaamheden en producten die ik gedaan heb of heb opgel
 - Opstarten project
 - Wertken met RealSense ZR300
 - Keuze voor Kinect
-- Applicatie voor Kinect
+- Applicatie voor Kinect (belangrijk, meeste werk!)
 - Opnemen Kinect Data
 - Organiseren data op server
 - Cleaning van data met python
 - Pepper treintje
+- Clustering
 - Gesprekken opdrachtgever
+- Paper
 - Presentaties
 
 #### [Persoonlijke ontwikkeling (klik hier)](ontwikkeling.md){:target="_blank"}
