@@ -31,7 +31,7 @@ Omdat ik het grootste deel van de opname applicatie gemaakt heb wist ik hier tij
 - Opnamesessie in het Atrium
 - Opnamesessies van scholieren die zelfstandig naar het lokaal kwam als reactie op bericht blackboard
 
-#### Organiseren data op server
+### Organiseren data op server
 Eén van de problemen waar ik tijdens het project tegen aan liep was het feit dat de data die we verzamelden niet echt georganiseerd op de server gezet werden. Om die reden heb ik de dat op de server per opname sessie in een folder gezet.
 ![Screenshot data georganiseerd](producten/werkzaamheden/Capture_data_organised.png)
 
@@ -39,12 +39,12 @@ Daarnaast heb ik een handleiding gemaakt voor het toevoegen van nieuwe data op d
 
 [Link handleiding data (pdf)](producten/werkzaamheden/Handleiding_uploaden_data.pdf){:target="_blank"}
 
-#### Cleaning van data met python
+### Cleaning van data met python
 De data van een opname bevatten veel overbodige frames, dit komt doordat op het moment dat de opname met de applicatie gestart wordt de oefening niet direct begint. Mijn code verwijdert deze overbodige frames op basis van data uit een excel file. Dit betekent dat projectgenoten alleen de start en eind frames van een oefening in een excellijst hoefden te zetten en mijn script hoefden te runnen. Later is mijn code door andere klasgenoten licht aangepast zodat het met meerdere excel sheets overweg kon.
 
 [Link naar notebook](https://github.com/Hans2131/Portfolio14137879/blob/master/producten/werkzaamheden/Cleaning%2Bdata%2Bfunctions%2Bv2.ipynb){:target="_blank"}
 
-#### Pepper treintje
+### Pepper treintje
 De functionaliteit van het Pepper Treintje is vooral bedacht door teamgenoten omdat ik vooral bezig was met de applicatie KinectingPepper. Later tijdens het project was mijn hulp echter nodig omdat we het treintje niet op tijd af zouden krijgen. Het teamgenoot die verantwoordelijk was voor toen huidige codebase had alles gemaakt in een normale python environment. Dit was echter niet handig omdat ik daardoor niet makkelijk mee kon helpen, ik heb daarom eerst alles overgezet naar Notebooks en alles toegevoegd aan een Github repository. 
 
 [Link naar Github repository met code treintje](https://github.com/KinectingPepper/spark_train){:target="_blank"}
@@ -60,12 +60,17 @@ Uiteindelijk heb ik aan de volgende twee files gewerkt:
 - [Link Notebook 'Code Train'](https://github.com/KinectingPepper/spark_train/blob/master/Code%20Train.ipynb){:target="_blank"}
 - [Link Notebook 'Run Train'](https://github.com/KinectingPepper/spark_train/blob/master/Run%20Train.ipynb){:target="_blank"}
 
-#### Gesprekken opdrachtgever
+### Clustering
+Tijdens het project heb ik een klein deel van mijn tijd besteedt aan cluster technieken. Hier had ik niet veel tijd voor beschikbaar dus ik ben verder niet tot zeggende resultaten gekomen.
+- [Link Notebook 'Clustering'](https://github.com/Hans2131/Portfolio14137879/blob/master/producten/werkzaamheden/Clustering.ipynb){:target="_blank"}
+
+
+### Gesprekken opdrachtgever
 Ik ben op verschillende momenten meegeweest voor een gesprek met een opdrachtgever of andere stakeholder
 - Drie keer op bezoek geweest bij manueel therapeut UMC Leiden
 - Eén keer op bezoek geweest bij sport fysio Zuiderpark
 
-#### Presentaties 
+### Presentaties 
 - [Link presentatie 1 (pdf)](producten/werkzaamheden/presentaties/Extern_P2.pdf){:target="_blank"}
 - [Link presentatie 2 (pdf)](producten/werkzaamheden/presentaties/Externe_presentatie_6_Okt.pdf){:target="_blank"}
 - [Link presentatie 3 (pdf)](producten/werkzaamheden/presentaties/Extern_22_December_DEMO.pdf){:target="_blank"}
