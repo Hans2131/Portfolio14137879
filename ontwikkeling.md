@@ -7,7 +7,7 @@
 ![Screenshot Datacamp](producten/ontwikkeling/capture_datacamp.PNG "Screenshot Datacamp Opdrachten")
 
 ### Coursera Opdrachten
-Van Coursera heb ik week 1 tot halverwege week 3 doorlopen.
+Van Coursera heb ik week 1, 2, 3 en 4 doorlopen.
 ![Screenshot Coursera](producten/ontwikkeling/capture_coursera.PNG "Screenshot Coursera Opdrachten")
 
 ### Python ExploratoryDataAnalysis opdrachten
