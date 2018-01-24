@@ -70,6 +70,13 @@ Ik ben op verschillende momenten meegeweest voor een gesprek met een opdrachtgev
 - Drie keer op bezoek geweest bij manueel therapeut UMC Leiden
 - Eén keer op bezoek geweest bij sport fysio Zuiderpark
 
+### Paper
+Voor het paper heb ik aan het eind van het blok de volgende hoofdstukken geschreven:
+- Kinect vs RealSense
+- 'Selfmade' applicatie
+- Uitsnijden oefening
+- Data filtering
+
 ### Presentaties 
 - [Link presentatie 1 (pdf)](producten/werkzaamheden/presentaties/Extern_P2.pdf){:target="_blank"}
 - [Link presentatie 2 (pdf)](producten/werkzaamheden/presentaties/Externe_presentatie_6_Okt.pdf){:target="_blank"}
