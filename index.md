@@ -6,7 +6,7 @@ Vierdejaars student Informatica Zoetermeer. Vooral ervaring met het gebruik van 
 
 ### Leeswijzer
 In dit portfoliobeschrijf ik mijn werkzaamheden tijdens betreffende Data Science Minor in drie categorieën:
-- Werkzaamheden tijdens project in fases
+- Werkzaamheden tijdens project
 - Persoonlijke ontwikkeling 
 - Overig
 
