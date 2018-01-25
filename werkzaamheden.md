@@ -45,16 +45,14 @@ De data van een opname bevatten veel overbodige frames, dit komt doordat op het 
 [Link naar notebook](https://github.com/Hans2131/Portfolio14137879/blob/master/producten/werkzaamheden/Cleaning%2Bdata%2Bfunctions%2Bv2.ipynb){:target="_blank"}
 
 ### Pepper treintje
-De functionaliteit van het Pepper Treintje is vooral bedacht door teamgenoten omdat ik vooral bezig was met de applicatie KinectingPepper. Later tijdens het project was mijn hulp echter nodig omdat we het treintje niet op tijd af zouden krijgen. Het teamgenoot die verantwoordelijk was voor toen huidige codebase had alles gemaakt in een normale python environment. Dit was echter niet handig omdat ik daardoor niet makkelijk mee kon helpen, ik heb daarom eerst alles overgezet naar Notebooks en alles toegevoegd aan een Github repository. 
+De functionaliteit van het Pepper Treintje is bedacht door teamgenoten omdat ik vooral bezig was met de applicatie KinectingPepper. Later tijdens het project was mijn hulp echter nodig omdat we het treintje niet op tijd af zouden krijgen. Het teamgenoot die verantwoordelijk was voor toen huidige codebase had alles gemaakt in een normale python environment. Dit was echter niet handig omdat ik daardoor niet makkelijk mee kon helpen, ik heb daarom eerst alles overgezet naar Notebooks en alles toegevoegd aan een Github repository. 
 
 [Link naar Github repository met code treintje](https://github.com/KinectingPepper/spark_train){:target="_blank"}
 
-Mijn bijdrages zijn voor geweest:
+Mijn verdere bijdrage hieraan:
 - Splitsen van grote methode met functionaliteit in kleine meer behapbare methodes
 - Programmeren data flow door treintje, elke stuk functionaliteit levert data voor een volgend stukje functionaliteit
 - Oplossen van wat bugs
- 
- Op het moment van schrijven is de code nog niet efficient en hoewel het treintje werkt werken de stukken functionaliteit onderling nog niet echt goed. (EDIT THIS AFTER NEW PRORESS ON TRAIN)
 
 Uiteindelijk heb ik aan de volgende twee files gewerkt:
 - [Link Notebook 'Code Train'](https://github.com/KinectingPepper/spark_train/blob/master/Code%20Train.ipynb){:target="_blank"}
