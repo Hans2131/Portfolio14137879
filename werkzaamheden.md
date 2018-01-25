@@ -76,6 +76,8 @@ Voor het paper heb ik aan het eind van het blok de volgende hoofdstukken geschre
 - 'Selfmade' applicatie
 - Uitsnijden oefening
 - Data filtering
+- Maat van symmetrie
+- Discussie
 
 ### Presentaties 
 - [Link presentatie 1 (pdf)](producten/werkzaamheden/presentaties/Extern_P2.pdf){:target="_blank"}
